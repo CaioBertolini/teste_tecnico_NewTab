@@ -1,0 +1,53 @@
+.header-top{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    background-color: gray;
+    align-items: center;
+}
+
+.header-top > img{
+    height: 100px;
+    padding: 20px;
+}
+
+.search-menu{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.search-menu > select{
+    width: 200px;
+    border: 0;
+    border-radius: 20px;
+    color: gray;
+    padding: 10px;
+    margin: 10px;
+}
+
+.search-menu > button{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    border-radius: 10px;
+    background-color: gray;
+    cursor: pointer;
+}
+
+.search-menu > button > img{
+    height: 20px;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    background-color: #ee6b2f;
+}
+
+.search-menu > input{
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    border: 0;
+    margin: 10px;
+}
