@@ -20,7 +20,7 @@ export default function Header(){
             <img src={pokedexlogo} alt="logo pokedex" fill="#ee6b2f"/>
             <div className="search-menu">
                 <select defaultValue={0}>
-                    <option disabled={true} value={0}>-- Tipo de pokémon --</option>
+                    <option value={0}>-- Tipo de pokémon --</option>
                     {typePokemon.map((item,key) => {
                         return <option value={key+1}>{item.name}</option>
                     })}
