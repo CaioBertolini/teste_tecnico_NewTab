@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teste_tecnico_NewTab/static/css/main.b6bc44bc.chunk.css",
+    "main.js": "/teste_tecnico_NewTab/static/js/main.7d5f6496.chunk.js",
+    "main.js.map": "/teste_tecnico_NewTab/static/js/main.7d5f6496.chunk.js.map",
+    "runtime-main.js": "/teste_tecnico_NewTab/static/js/runtime-main.9b08fb29.js",
+    "runtime-main.js.map": "/teste_tecnico_NewTab/static/js/runtime-main.9b08fb29.js.map",
+    "static/js/2.efd83f9e.chunk.js": "/teste_tecnico_NewTab/static/js/2.efd83f9e.chunk.js",
+    "static/js/2.efd83f9e.chunk.js.map": "/teste_tecnico_NewTab/static/js/2.efd83f9e.chunk.js.map",
+    "index.html": "/teste_tecnico_NewTab/index.html",
+    "static/css/main.b6bc44bc.chunk.css.map": "/teste_tecnico_NewTab/static/css/main.b6bc44bc.chunk.css.map",
+    "static/js/2.efd83f9e.chunk.js.LICENSE.txt": "/teste_tecnico_NewTab/static/js/2.efd83f9e.chunk.js.LICENSE.txt",
+    "static/media/magnifyingglass.ca1a3b97.svg": "/teste_tecnico_NewTab/static/media/magnifyingglass.ca1a3b97.svg",
+    "static/media/pokedexlogo.beda6a95.png": "/teste_tecnico_NewTab/static/media/pokedexlogo.beda6a95.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b08fb29.js",
+    "static/js/2.efd83f9e.chunk.js",
+    "static/css/main.b6bc44bc.chunk.css",
+    "static/js/main.7d5f6496.chunk.js"
+  ]
+}
